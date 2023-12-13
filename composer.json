@@ -1,0 +1,18 @@
+{
+    "name": "laoyao/ttfpay",
+    "description": "统统付三方支付",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Laoyao\\Ttfpay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "laoyao",
+            "email": "1042751422@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
